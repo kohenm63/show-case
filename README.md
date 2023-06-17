@@ -16,5 +16,3 @@ This data is freely available for public use. For more information about the rig
 
 Please note that any scripts or analysis provided in this repository are provided "as is" and without any warranty or guaranteed support.
 
-## Contribute
-We welcome contributions to this repository. Please read the CONTRIBUTING guide for more information.
